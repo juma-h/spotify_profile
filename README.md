@@ -1,6 +1,9 @@
 # Spotify Connected App
 
-End product of the "Build a Spotify Connected App" newline course
+- This is the end product of the "Build a Spotify Connected App" newline course
+- The  app prompts user login , iew top artists ,tracks and playlists in main page and also individually.
+- More features added slowly.
+
 
 ## Local Installation & Set Up
 
